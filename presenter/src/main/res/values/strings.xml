@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Presenter</string>
+    <string name="label_added_to_favourites">Added To Favourite List</string>
+    <string name="label_removed_from_favourites">Removed From Favourite List</string>
+
+    <string name="done">Advert loaded!</string>
+</resources>

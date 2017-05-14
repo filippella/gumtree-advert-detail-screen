@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gumtree</string>
+
+    <string-array name="prices">
+        <item>£20000</item>
+        <item>£30000</item>
+        <item>£40000</item>
+        <item>£50000</item>
+        <item>£60000</item>
+        <item>£70000</item>
+        <item>£80000</item>
+        <item>£90000</item>
+        <item>£100000</item>
+        <item>£110000</item>
+        <item>£120000</item>
+        <item>£130000</item>
+        <item>£140000</item>
+        <item>£150000</item>
+    </string-array>
+
+    <string-array name="plans">
+        <item>24 Months</item>
+        <item>36 Months</item>
+        <item>48 Months</item>
+        <item>60 Months</item>
+    </string-array>
+</resources>
